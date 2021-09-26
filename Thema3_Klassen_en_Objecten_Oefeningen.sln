@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thema3_Klassen_en_Objecten_Oefeningen", "Thema3_Klassen_en_Objecten_Oefeningen\Thema3_Klassen_en_Objecten_Oefeningen.csproj", "{D72F30EF-713A-4B4A-A2D1-7FC0967ECC1A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{99EDDBBF-1D16-4DD6-95D2-EE96D02D0DB5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\OOP_oefeningen.pdf = ..\..\..\Desktop\OOP_oefeningen.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
